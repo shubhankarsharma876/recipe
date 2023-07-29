@@ -17,7 +17,7 @@ It is a place we you can find the recipe and the ingredients for the cuisine you
 ***
 
 ### Cuisine Category
-<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/recipe/main/cusien.png"/>
+<img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/recipe/main/particular cusien.png"/>
 
 ***
 
