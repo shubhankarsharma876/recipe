@@ -26,12 +26,14 @@ It is a place we you can find the recipe and the ingredients for the cuisine you
 <br>
 Let's find your dish.
 <br>
+<br>
 
 <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/recipe/main/search.png"/>
 
 ***
 
 ### Ingredients and Instruction for your dish.
+
 <div>
    <div>
        <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/recipe/main/instruction page.png"/>
