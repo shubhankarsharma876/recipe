@@ -34,8 +34,12 @@ Let's find your dish.
 ### Ingredients and Instruction for your dish.
 <div>
    <div>
-  <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/recipe/main/ingredients.png"/>
-  <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/recipe/main/instruction page.png"/>
+       <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/recipe/main/instruction page.png"/>
+   <div>
+       <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/recipe/main/ingredients.png"/>
+   </div>
+      
+ 
     </div>
 </div>
 
