@@ -35,12 +35,12 @@ Let's find your dish.
 <div>
    <div>
        <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/recipe/main/instruction page.png"/>
+   </div>
    <div>
        <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/recipe/main/ingredients.png"/>
    </div>
       
  
-    </div>
 </div>
 
 ***
