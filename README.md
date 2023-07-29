@@ -24,9 +24,9 @@ It is a place we you can find the recipe and the ingredients for the cuisine you
 ### Search Results
 
 <br>
-<br>
 Let's find your dish.
 <br>
+
 <img align="center" src="https://raw.githubusercontent.com/shubhankarsharma876/recipe/main/search.png"/>
 
 ***
