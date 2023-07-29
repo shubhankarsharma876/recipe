@@ -22,9 +22,8 @@ It is a place we you can find the recipe and the ingredients for the cuisine you
 ***
 
 ### Search Results
-
 <br>
-Let's find your dish.
+Let's find your dish!
 <br>
 <br>
 
