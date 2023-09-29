@@ -4,7 +4,7 @@ import{FaSearch} from 'react-icons/fa'
 import styled from 'styled-components';
 import { useNavigate } from 'react-router-dom';
 
-
+//Using style to improve the reside of styling in the component.
 function Search() { 
     const [input, setInput] = useState("");
     const navigate =useNavigate();

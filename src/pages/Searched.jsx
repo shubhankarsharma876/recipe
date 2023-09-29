@@ -8,6 +8,7 @@ function Searched() {
 
 const[searchedRecipes, setSearchedRecipes] =useState([]);
 let params =useParams();
+//Can use the useParams hook in the rendered component to retrieve the parameters
 
     const getSearched = async (name)=>{
         const data =await fetch(
